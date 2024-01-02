@@ -1,0 +1,33 @@
+{
+  "events": [
+    {
+      "name": "anime samsara",
+      "date": "2024-01-02",
+      "location": "jimbaran"
+    },
+    {
+      "name": "olahraga",
+      "date": "2024-01-23",
+      "location": "denpasar",
+      "cosplayers": [
+        {
+          "name": "anut",
+          "character": "anut",
+          "anime": "doraemon"
+        }
+      ]
+    }
+  ],
+  "cosplayers": [
+    {
+      "name": "spiderman",
+      "character": "anut",
+      "anime": ""
+    },
+    {
+      "name": "anut",
+      "character": "anut",
+      "anime": "doraemon"
+    }
+  ]
+}
